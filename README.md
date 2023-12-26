@@ -1,5 +1,5 @@
 
-# 🅒🅖🅦 Coingrig Mobile Wallet
+# 🅒🅖🅦 Coingreen Mobile Wallet
 Next-Generation Digital Wallet. A powerful digital wallet for everyone with unique features.
 
 🪙 Crypto, 🏦 Banking, 📈 Stocks and more.
